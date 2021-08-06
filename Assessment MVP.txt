@@ -6,6 +6,7 @@ MVP list:
 -map functionality
 -Calories of each meal
 -Search bar
+-Restaurant site link
 
 User Stories:
 -As a Worker on a strict diet I want to see the calories of all the foods so that I know
@@ -18,4 +19,4 @@ so that I can know if i got enough for my family
 so that I can easily pick what I want to eat from the list.
 -As Someone with little spare time i want to search for what I want
 from the list so that I can quickly find what I want to order
-
+-As a restaurant manager I want to advertise my restaurant site so that I can Gain more customers
